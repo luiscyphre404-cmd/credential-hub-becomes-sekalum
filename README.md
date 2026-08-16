@@ -1,10 +1,10 @@
-# SEKALUM
-Credential Lifecycle &amp; Runtime Access
+# Credential HUB becomes Sekalum
 
-<img width="1474" height="453" alt="Bildschirmfoto 2026-08-11 um 09 11 51" src="https://github.com/user-attachments/assets/b636ae85-506f-483a-9b9f-438dc89479fa" />
+Credential HUB has been renamed to **Sekalum**.
 
-Sekalum will be available soon as an Open Source Project
+The project continues under the new name at **Working Curiosity**:
 
+https://github.com/workingcuriosity/sekalum
 
-<img width="1055" height="1491" alt="Sekalum_Branded_Info_Page_EN" src="https://github.com/user-attachments/assets/ca6a5d90-1b37-4993-802f-23243ef76f0b" />
-
+Please use the Sekalum repository for the current source code, documentation,
+issues, releases, and future development.
